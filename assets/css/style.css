@@ -422,7 +422,7 @@ body.active { overflow: hidden; }
 }
 
 .navbar-list > li {
-  margin-block: 12px;
+  margin-block: 20px;
   padding-inline: 50px;
   overflow: hidden;
 }
