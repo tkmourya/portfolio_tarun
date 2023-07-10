@@ -406,7 +406,7 @@ body.active { overflow: hidden; }
   top: 100%;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 50%;
   display: grid;
   place-items: center;
   visibility: hidden;
@@ -422,7 +422,7 @@ body.active { overflow: hidden; }
 }
 
 .navbar-list > li {
-  margin-block: 20px;
+  margin-block: 1px;
   padding-inline: 50px;
   overflow: hidden;
 }
@@ -447,7 +447,7 @@ body.active { overflow: hidden; }
 .navbar-link::before {
   content: "";
   position: absolute;
-  top: 50%;
+  top: 80%;
   transform: translateY(-50%);
   left: 0;
   height: 5px;
