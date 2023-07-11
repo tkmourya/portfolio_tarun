@@ -8,15 +8,20 @@
 body {
 	background-image: linear-gradient(45deg, #c048b4, #f1bd23);
 	font-family: 'Muli', sans-serif;
-	display: flex;
+
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
 	min-height: 100vh;
 	margin: 0;
+	
 }
 
 .courses-container {
+	justify-content: center;
+	display: flex;
+	margin: auto;
+	
 	
 }
 
