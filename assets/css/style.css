@@ -488,9 +488,7 @@ main { overflow-x: hidden; }
   margin-bottom: 30px;
 }
 
-.hero .btn-primary { margin-inline: auto; }
-
-
+.hero .btn-primary { margin: 170px 130px; }
 
 
 
